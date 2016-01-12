@@ -1,10 +1,10 @@
 # byebye.sh
 
-* Time to go, time to leave *
+*Time to go, time to leave*
 
-* Trails obfuscation little script *
+*Trail obfuscation little script*
 
-* Clean all this mess before I flee *
+*Clean all this mess before I flee*
 
      - The byebye poem -
      
